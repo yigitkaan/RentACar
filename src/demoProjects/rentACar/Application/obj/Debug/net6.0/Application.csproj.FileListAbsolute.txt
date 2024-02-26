@@ -1,0 +1,17 @@
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net6.0\Application.deps.json
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net6.0\Application.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net6.0\Application.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net6.0\Core.Persistence.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net6.0\Domain.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net6.0\Domain.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net6.0\Core.Persistence.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Applicat.44B5EDA2.Up2Date
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Application.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\refint\Application.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\Application.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net6.0\ref\Application.dll
