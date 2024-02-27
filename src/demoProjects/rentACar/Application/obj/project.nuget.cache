@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NCmS9ADZkRxLfUvU/9bkJCTxPzZt+n22sDjupW/bnHQRyO2Xe5QejvE11SJKGW8MIi2f9tfkpvvy/vY037/qfQ==",
+  "dgSpecHash": "DAIEgSELrMj/UKpDC6vaw/lbhScqgO8bkWXm5QQNKOXSF1G+FPZMs1NcS3sNTnxyl9wNbGknNmGFeZ+z/TNZDg==",
   "success": true,
   "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
