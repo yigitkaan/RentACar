@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "jDAWspnvNcxNNOi4ufMLM5psudd4PRzBe3OHn09PpnFQMuJroZ57iafndpfls/jCYx84hOMi/l32fdr5x6fYTg==",
-  "success": true,
+  "dgSpecHash": "maALbkCl+ElSTdXhD6CrROhp3XFZ0u2gkGirAs+S93++fj9kctrR0fLAH0dma/QgBPToaw8NNkZJRiWemcnhqg==",
+  "success": false,
   "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\demoProjects\\templateProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
@@ -127,5 +127,15 @@
     "C:\\Users\\user\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  WebAPI -> Application -> Application.",
+      "libraryId": "Application",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

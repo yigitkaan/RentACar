@@ -1,4 +1,5 @@
-﻿using Application.Features.someFeature.Rules;
+﻿using Application.Features.Brands.Rules;
+using Application.Features.someFeature.Rules;
 using Core.Application.Pipelines.Authorization;
 using Core.Application.Pipelines.Caching;
 using Core.Application.Pipelines.Logging;
@@ -23,7 +24,7 @@ namespace Application
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
             services.AddMediatR(Assembly.GetExecutingAssembly());
 
-            services.AddScoped<SomeFeatureEntityBusinessRules>();
+            services.AddScoped<BrandBusinessRules>();
 
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(AuthorizationBehavior<,>));

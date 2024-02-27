@@ -1941,6 +1941,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Application": "1.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "Core.Application": "1.0.0",
           "Domain": "1.0.0",
@@ -5953,8 +5954,8 @@
     },
     "Domain/1.0.0": {
       "type": "project",
-      "path": "../Domain/Domain.csproj",
-      "msbuildProject": "../Domain/Domain.csproj"
+      "path": "../../rentACar/Domain/Domain.csproj",
+      "msbuildProject": "../../rentACar/Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6055,5 +6056,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  Persistence -> Application -> Application.",
+      "libraryId": "Application",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -10,3 +10,16 @@ D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Cor
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.deps.json
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.AssemblyReference.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfoInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfo.cs
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.CoreCompileInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.sourcelink.json
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
