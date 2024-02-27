@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SBdzQhbyDo3b+MAuASYa/NfI5YHse5ug0A27zrgKnb45o6TNMNs5QzeKNP5G3cqsPEGr7N6oD9cIktPf9/Evrg==",
+  "dgSpecHash": "jDAWspnvNcxNNOi4ufMLM5psudd4PRzBe3OHn09PpnFQMuJroZ57iafndpfls/jCYx84hOMi/l32fdr5x6fYTg==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\demoProjects\\templateProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\demoProjects\\templateProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

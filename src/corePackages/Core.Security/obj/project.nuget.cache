@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "klmP01Ghz297NXpaQcOApbqYpGroUpHmRCEZ28RT9lUMqg6Q1Luu5e82g94L4KwvZRX+Ij5Xxj6pLDRKYZtbEw==",
+  "dgSpecHash": "VLDg1S5pRtOIQbALrIahpa7QQWrszMk+J9wyUQYhVAZygMEVj3xqCN39WJmizEyFVVhcPRcTGNkNqvo6mkzuZQ==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mBaMgIyfMsVfk8CkuT2b3+8r6HA/loYJJBZTbnFkyhcf4SIeitnhMx5y4xdeByQcItj6A4xOhmIgwUS2Aejlw==",
+  "dgSpecHash": "Lo/Kal0S3R06rKaPVp0jcbDdJftDZNa/PDNc2PfhqI88sN0mjcVf0wdVE0e0gKIeZ4U0o2qHq98SPl8tBlL0yg==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

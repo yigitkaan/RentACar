@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5f14AkDw2mPD1YhHHIaLdZjuca1Gmkig/PmNBaqez42jWvY1U5gciTzL2nRgZpCvcOiutIG007wfRUkxikGWSg==",
+  "dgSpecHash": "P7q27wGGpwCdZK/Ej7+30E3rAzC5/ttsF9y3UHsK+vJX0AzjUVPbGNihR0ysMdaf6djkmxYiSOdrvDTJex9few==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

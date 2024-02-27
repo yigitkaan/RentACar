@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LKBJt0KrTB1rRk3xL4C6HCkxoex87/o+6FU1KW+WezTGhhWcZhQWHFGB4N7aNTTxNRKbml2V9QLLaBORmf7lqA==",
+  "dgSpecHash": "5z6tOFdSlZ4jass69H+myNnRW/9AoV/b475/tl62nNr+2wn023YB77Nif58Gnghgp7vxOosyH1SXfgKrY0C46w==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

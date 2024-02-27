@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\demoProjects\templateProject\Infrastructure\
+build_property.ProjectDir = D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\templateProject\Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

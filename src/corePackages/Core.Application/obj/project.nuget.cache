@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rSQzZ2/hevnBQUQTr8Ef18yxwv7Qgq9EWXr9SFVgrr9E2IkR42q4ehrMm442r5WHGGesZeMOe3pM7m9cUQFabg==",
+  "dgSpecHash": "9RCYd9BAlryCaEkpMdAoOgXY2oZBymD1H2ZYc11mJGs9twA+VwmNraxi5djoDsBVm1DUTersnw30J5uwp3BldQ==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",

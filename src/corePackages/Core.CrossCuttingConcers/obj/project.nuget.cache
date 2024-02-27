@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2jDCBCgujgs/kwHasbteH+AaMBAKpHmFTk165t2RPwBSLR8XJPAEehFbmOQW/JNOfEV/pr+Yy8yTZDMb4QkwWw==",
+  "dgSpecHash": "X02GHj9WbxtQ/C2g3sGRYVPPR23jNMJcVJxJ0WjZolxRfteYxgKXQHEmUYF2BUXoj8i7CislBW7+8zAmFPmABQ==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUF+sirE2CDGe0zJbFyd+ErJXUuv80xtub+JebvMCAUUK38BMOwKxkjOTv7RE5JauY67q9oZCqGrtDIZP7Igvg==",
+  "dgSpecHash": "/gwINAV+aa3n9iaGl+IOzawF3IIU9Uk28Ww4kb2evP+cI+SZ9wYIUrgiM4EWxRrekvSq6AhpKJ+MYSuC2keoAQ==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

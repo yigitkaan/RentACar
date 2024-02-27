@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4OycsJsgWoL0RC23DCTOZxs3OpaBl8OXaKsikKdr9jDeASJ0wkeEzVnMg+p3N6Ore5I9jTD+tULYaLvh5N3fzw==",
+  "dgSpecHash": "9c/hAa69f3Jz4ld+yeFJ4ohc+CihK05xtuNr8hr/F3XTTH8WqJF+x7gQgrBGebrngsXf52tmeFLqfbEhfVGukQ==",
   "success": true,
-  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\RentACar\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
