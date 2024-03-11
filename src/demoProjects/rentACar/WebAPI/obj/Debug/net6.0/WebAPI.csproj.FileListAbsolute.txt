@@ -164,3 +164,9 @@ D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Otp.NET.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Application.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Security.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Application.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Security.pdb
