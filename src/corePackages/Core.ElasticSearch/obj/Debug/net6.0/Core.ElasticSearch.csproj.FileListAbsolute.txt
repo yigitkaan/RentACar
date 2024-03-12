@@ -10,3 +10,16 @@ D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Cor
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\refint\Core.ElasticSearch.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.deps.json
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfoInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfo.cs
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.CoreCompileInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.sourcelink.json
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\refint\Core.ElasticSearch.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll

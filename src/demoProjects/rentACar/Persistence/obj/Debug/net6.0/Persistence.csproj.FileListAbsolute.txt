@@ -21,11 +21,17 @@ D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Persistence.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Persistence.pdb
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Application.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Application.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Persistence.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Security.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Domain.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Application.pdb
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Application.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Persistence.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Security.pdb
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
@@ -37,9 +43,3 @@ D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\Persistence.pdb
 D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\ref\Persistence.dll
-D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
-D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
-D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Application.dll
-D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Security.dll
-D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Application.pdb
-D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\RentACar\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Security.pdb

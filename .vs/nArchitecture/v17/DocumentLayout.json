@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D763BAC-0636-45E0-94C9-B104FA0D9CCA}|src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D763BAC-0636-45E0-94C9-B104FA0D9CCA}|src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj|solutionrelative:src\\demoprojects\\rentacar\\webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\application\\features\\models\\queries\\getlistmodelbydynamic\\getlistmodelbydynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|solutionrelative:src\\demoprojects\\rentacar\\application\\features\\models\\queries\\getlistmodelbydynamic\\getlistmodelbydynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\application\\features\\models\\queries\\getlistmodel\\getlistmodelquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|solutionrelative:src\\demoprojects\\rentacar\\application\\features\\models\\queries\\getlistmodel\\getlistmodelquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\application\\features\\models\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|solutionrelative:src\\demoprojects\\rentacar\\application\\features\\models\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|solutionrelative:src\\demoprojects\\rentacar\\persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\persistence\\repositories\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|solutionrelative:src\\demoprojects\\rentacar\\persistence\\repositories\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\persistence\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|solutionrelative:src\\demoprojects\\rentacar\\persistence\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\application\\services\\repositories\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|solutionrelative:src\\demoprojects\\rentacar\\application\\services\\repositories\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\application\\features\\models\\models\\modellistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|solutionrelative:src\\demoprojects\\rentacar\\application\\features\\models\\models\\modellistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\application\\features\\models\\dtos\\modellistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|solutionrelative:src\\demoprojects\\rentacar\\application\\features\\models\\dtos\\modellistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\persistence\\migrations\\20220907185925_add-model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|solutionrelative:src\\demoprojects\\rentacar\\persistence\\migrations\\20220907185925_add-model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\persistence\\contexts\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6BD823-D239-4DC7-A300-D500571A4C36}|src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj|solutionrelative:src\\demoprojects\\rentacar\\persistence\\contexts\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB869C-EB13-40B5-88BF-F07E2B5DECFC}|src\\demoProjects\\rentACar\\Domain\\Domain.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\domain\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACB869C-EB13-40B5-88BF-F07E2B5DECFC}|src\\demoProjects\\rentACar\\Domain\\Domain.csproj|solutionrelative:src\\demoprojects\\rentacar\\domain\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB869C-EB13-40B5-88BF-F07E2B5DECFC}|src\\demoProjects\\rentACar\\Domain\\Domain.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACB869C-EB13-40B5-88BF-F07E2B5DECFC}|src\\demoProjects\\rentACar\\Domain\\Domain.csproj|solutionrelative:src\\demoprojects\\rentacar\\domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|d:\\c# programlama\\youtube eng\u0130n dem\u0130ro\u011F c#\\rentacar\\src\\demoprojects\\rentacar\\application\\features\\brands\\queries\\getbyidbrand\\getbyidbrandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A67A527-080A-4576-B3FC-F5E696C23D9B}|src\\demoProjects\\rentACar\\Application\\Application.csproj|solutionrelative:src\\demoprojects\\rentacar\\application\\features\\brands\\queries\\getbyidbrand\\getbyidbrandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +138,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetListModelByDynamicQuery.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModelByDynamic\\GetListModelByDynamicQuery.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModelByDynamic\\GetListModelByDynamicQuery.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModelByDynamic\\GetListModelByDynamicQuery.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModelByDynamic\\GetListModelByDynamicQuery.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA2wCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:08:32.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelsController.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\WebAPI\\Controllers\\ModelsController.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\WebAPI\\Controllers\\ModelsController.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\WebAPI\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\WebAPI\\Controllers\\ModelsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:56:02.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:02:08.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Persistence\\PersistenceServiceRegistration.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Persistence\\PersistenceServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:46:40.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetListModelQuery.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModel\\GetListModelQuery.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModel\\GetListModelQuery.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModel\\GetListModelQuery.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Queries\\GetListModel\\GetListModelQuery.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:23:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ModelRepository.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Repositories\\ModelRepository.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Persistence\\Repositories\\ModelRepository.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Repositories\\ModelRepository.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Persistence\\Repositories\\ModelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:45:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Repositories\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Persistence\\Repositories\\BrandRepository.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Repositories\\BrandRepository.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Persistence\\Repositories\\BrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:43:02.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IModelRepository.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Services\\Repositories\\IModelRepository.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Services\\Repositories\\IModelRepository.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Services\\Repositories\\IModelRepository.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Services\\Repositories\\IModelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:32:57.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelListModel.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Models\\ModelListModel.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Models\\ModelListModel.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Models\\ModelListModel.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Models\\ModelListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:17:11.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelListDto.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Dtos\\ModelListDto.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Dtos\\ModelListDto.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Models\\Dtos\\ModelListDto.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Models\\Dtos\\ModelListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:12:52.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20220907185925_Add-Model.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Migrations\\20220907185925_Add-Model.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Persistence\\Migrations\\20220907185925_Add-Model.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Migrations\\20220907185925_Add-Model.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Persistence\\Migrations\\20220907185925_Add-Model.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:05:32.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseDbContext.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Contexts\\BaseDbContext.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Persistence\\Contexts\\BaseDbContext.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Persistence\\Contexts\\BaseDbContext.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Persistence\\Contexts\\BaseDbContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:25:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Domain\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Domain\\Entities\\Brand.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Domain\\Entities\\Brand.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Domain\\Entities\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:09:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Domain\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Domain\\Entities\\Model.cs",
+              "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Domain\\Entities\\Model.cs",
+              "RelativeToolTip": "src\\demoProjects\\rentACar\\Domain\\Entities\\Model.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAD4vxwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:56:35.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "BrandGetByIdDto.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Dtos\\BrandGetByIdDto.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Dtos\\BrandGetByIdDto.cs",
@@ -90,25 +328,23 @@
               "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Dtos\\BrandGetByIdDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T10:42:08.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T10:42:08.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "GetByIdBrandQuery.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Queries\\GetByIdBrand\\GetByIdBrandQuery.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Queries\\GetByIdBrand\\GetByIdBrandQuery.cs",
               "ToolTip": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Queries\\GetByIdBrand\\GetByIdBrandQuery.cs",
               "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Queries\\GetByIdBrand\\GetByIdBrandQuery.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAABNAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T10:37:45.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T10:37:45.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "GetListBrandQuery.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Queries\\GetListBrand\\GetListBrandQuery.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Queries\\GetListBrand\\GetListBrandQuery.cs",
@@ -116,12 +352,11 @@
               "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Queries\\GetListBrand\\GetListBrandQuery.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAewBkAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:17:29.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T08:17:29.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
@@ -129,12 +364,11 @@
               "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T09:13:49.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T09:13:49.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "BrandBusinessRules.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
@@ -142,12 +376,11 @@
               "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:19:15.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:19:15.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "BrandsController.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\WebAPI\\Controllers\\BrandsController.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\WebAPI\\Controllers\\BrandsController.cs",
@@ -155,12 +388,11 @@
               "RelativeToolTip": "src\\demoProjects\\rentACar\\WebAPI\\Controllers\\BrandsController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAqwBgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:01:33.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:01:33.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "ApplicationServiceRegistration.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\ApplicationServiceRegistration.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\ApplicationServiceRegistration.cs",
@@ -168,12 +400,11 @@
               "RelativeToolTip": "src\\demoProjects\\rentACar\\Application\\ApplicationServiceRegistration.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T11:00:43.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T11:00:43.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\templateProject\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\templateProject\\WebAPI\\Program.cs",
@@ -185,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "BrandListModel.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Models\\BrandListModel.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Models\\BrandListModel.cs",
@@ -197,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\WebAPI\\Program.cs",
@@ -209,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "CreateBrandCommandValidator.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommandValidator.cs",
@@ -221,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "BrandListDto.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Dtos\\BrandListDto.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Dtos\\BrandListDto.cs",
@@ -233,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "SomeFeatureEntityBusinessRules.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\templateProject\\Application\\Features\\someFeature\\Rules\\SomeFeatureEntityBusinessRules.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\templateProject\\Application\\Features\\someFeature\\Rules\\SomeFeatureEntityBusinessRules.cs",
@@ -245,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "ApplicationServiceRegistration.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\templateProject\\Application\\ApplicationServiceRegistration.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\templateProject\\Application\\ApplicationServiceRegistration.cs",
@@ -257,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "CreateSomeFeatureEntityCommand.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\templateProject\\Application\\Features\\someFeature\\Commands\\CreateSomeFeature\\CreateSomeFeatureEntityCommand.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\templateProject\\Application\\Features\\someFeature\\Commands\\CreateSomeFeature\\CreateSomeFeatureEntityCommand.cs",
@@ -269,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "CreateBrandCommand.cs",
               "DocumentMoniker": "D:\\C# PROGRAMLAMA\\YOUTUBE ENG\u0130N DEM\u0130RO\u011E C#\\RentACar\\src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommand.cs",
               "RelativeDocumentMoniker": "src\\demoProjects\\rentACar\\Application\\Features\\Brands\\Commands\\CreateBrand\\CreateBrandCommand.cs",
